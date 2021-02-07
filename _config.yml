@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+name: "brzermr's blog"
+description: "share"
+footer-links:
+  email: zhengma0211@gmail.com
+  github: brzermr
+url: https://brzermr.github.io/
