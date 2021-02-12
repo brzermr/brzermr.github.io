@@ -31,3 +31,9 @@ plugins:
 owner : "Brzermr"
 year : "2021"
 google_analytics: UA-189304741-1
+
+gitalk:
+clientID: 94b578e9990672bad7f9
+clientSecret: ce0531c2d3548aaec28cd88e252a188257cd305c
+repo: https://github.com/brzermr/brzermr.github.io.git
+owner: brzermr
