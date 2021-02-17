@@ -30,6 +30,7 @@ plugins:
 # Custom variables
 owner : "Brzermr"
 year : "2021"
+search: "search"
 google_analytics: UA-189304741-1
 
 gitalk:
