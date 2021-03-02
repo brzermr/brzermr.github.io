@@ -16,7 +16,7 @@ body {
   padding: 0;
   background: $body-background url("../assets/bkg.png") 0 0;
   color: $body-foreground;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
@@ -80,7 +80,7 @@ header h1 {
 }
 
 header h2 {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   color: #666;
 }
