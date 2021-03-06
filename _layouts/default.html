@@ -12,7 +12,7 @@
 
   <!-- Script pointing to jekyll-search.js -->
   <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-  
+  <script>
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
@@ -22,7 +22,7 @@
     limit: 20,
     fuzzy: false
   })
-  
+  </script>
   <div id="wrapper">
     {% include header.html %}
     <div class="container">
