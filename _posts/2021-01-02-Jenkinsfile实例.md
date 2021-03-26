@@ -1,5 +1,8 @@
 > 基于kubesphere的devops组件(jenkins)
-```Jenkinsfile
+
+`Jenkinsfile`
+
+```
 pipeline {
 
   agent {
@@ -56,7 +59,9 @@ pipeline {
 }
 ```
 
-```Dockerfile
+`Dockerfile`
+
+```
 FROM python
 RUN mkdir /app && apt-get update
 RUN ping mirrors.aliyun.com -c4
@@ -66,8 +71,9 @@ WORKDIR /app
 CMD ["python","/app/app.py"]
 ```
 
+`deployment.yaml`
+
 ```yaml
-# deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
