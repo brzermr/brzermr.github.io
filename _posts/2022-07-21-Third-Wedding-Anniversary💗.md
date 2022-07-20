@@ -97,3 +97,5 @@
 引用王小波对李银河的话：
 
 **祝你今天愉快，你明天的愉快留着我明天再祝。** 🌹
+
+![附上辛巴憨憨图](https://raw.githubusercontent.com/brzermr/brzermr.github.io/2d18d00d1b26ab14a328803df41c322bea2e161e/pics/simba01.png)
